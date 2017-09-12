@@ -10,4 +10,4 @@ I hope this useful (at least to my future self)~~!
 
 🚀 
 
-Good luck, be happy!
+Good luck and be happy!
