@@ -6,4 +6,8 @@ Inspired by Khoa Pham's [notes](https://github.com/onmyway133/notes/issues)
 
 ==
 
-Good luck!
+I hope this useful (at least to my future self)~~!
+
+🚀 
+
+Good luck, be happy!
