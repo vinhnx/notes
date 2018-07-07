@@ -6,7 +6,7 @@ Inspired by Khoa Pham's [notes](https://github.com/onmyway133/notes/issues)
 
 ---
 
-Check out my other (notes about life)[https://github.com/vinhnx/life-notes/issues]
+Check out my other [notes about life](https://github.com/vinhnx/life-notes/issues)
 
 ---
 
