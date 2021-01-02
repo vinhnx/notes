@@ -1,4 +1,4 @@
-# notes
+# [notes](https://github.com/vinhnx/notes/issues)
 
 programming, unix, notes, tips/tricks, lessions learnt that I found out that I found along the way. 
 
@@ -15,3 +15,5 @@ I hope this useful (at least to my future self)~~!
 🚀 
 
 Good luck and be happy!
+
+--> Let's explore [https://github.com/vinhnx/notes/issues](https://github.com/vinhnx/notes/issues)
