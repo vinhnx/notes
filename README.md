@@ -1,6 +1,6 @@
 # [notes](https://github.com/vinhnx/notes/issues)
 
-My personal knowledge base, that I also want to share with everyone.
+My personal knowledge base, that I also want to share with everyone. 📖
 
 programming, unix, notes, tips/tricks, lessions learnt that I found out that I found along the way. 
 
@@ -12,9 +12,7 @@ Check out my other [notes about life](https://github.com/vinhnx/life-notes/issue
 
 ---
 
-I hope this useful (at least to my future self)~~!
-
-🚀 
+I hope this useful (at least to my future self)~~! 🚀 
 
 Good luck and be happy!
 
